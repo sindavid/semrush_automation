@@ -1,0 +1,4 @@
+selenium
+flask_cors
+flask
+flask_api

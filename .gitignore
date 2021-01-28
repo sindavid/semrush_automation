@@ -1,0 +1,8 @@
+config/email.py
+config/semrush.py
+venv
+*.csv
+upload/*
+.idea
+__pycache__
+geckodriver.log

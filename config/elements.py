@@ -1,0 +1,15 @@
+elements = {
+    'login_user': '/html/body/div[1]/main/div/main/div/div/form/div[2]/div[2]/div/div/input',
+    'login_pwd': '/html/body/div[1]/main/div/main/div/div/form/div[3]/div[2]/div/div/input',
+    'login_submit': '/html/body/div[1]/main/div/main/div/div/form/button[2]/span/span/div',
+    'anchor': '/html/body/div[1]/main/div[1]/div/div[3]/div/div/div[5]/div/table/tbody/tr[{0}]/td[1]/div/div/div/div/div[1]',
+    'ref_domains': '/html/body/div[1]/main/div[1]/div/div[3]/div/div[3]/div[1]/div[1]/div/div/span/span',
+    'error_login_btn': '/html/body/div[5]/div/div/div[2]/div/div/div/div/div[1]/div[2]/div/div/div[1]/div[2]',
+    'error_login_user': '/html/body/div[5]/div/div/div[2]/div/div/div/div/div[1]/div[2]/div/div/div[3]/form/div/div[1]/div/div/input',
+    'error_login_pwd': '/html/body/div[5]/div/div/div[2]/div/div/div/div/div[1]/div[2]/div/div/div[3]/form/div/div[2]/div/div/input',
+    'error_login_submit': '/html/body/div[5]/div/div/div[2]/div/div/div/div/div[1]/div[2]/div/div/div[3]/form/div/button/div/span',
+    'filter_all_time': '/html/body/div[1]/main/div/div/div/div[4]/div[2]/div/div/div[2]/div[2]/div[1]/div[2]/div[2]/button[5]/span',
+    'btn_export': '/html/body/div[1]/main/div/div/div/div[4]/div[2]/div/div/div[1]/div[2]/button/span/span',
+    'btn_csv': '/html/body/div[11]/div[3]/div/div/div/div[2]',
+    'no_data': '/html/body/div[1]/main/div/div/div/div[4]/div[2]/div/div/div[2]/div[2]/div[2]/div[2]',
+}

@@ -1,0 +1,6 @@
+email = {
+    'host': 'SMTP.office365.com',
+    'port': 587,
+    'user': '',
+    'pwd': ''
+}
